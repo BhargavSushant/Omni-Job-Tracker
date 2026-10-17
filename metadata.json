@@ -1,0 +1,6 @@
+{
+  "name": "JobPulse - In-Memory Job Discovery & Pipeline Tracker",
+  "description": "High-throughput local job ingestion engine with swipe discovery deck, instant fast-filter rules, and real-time application pipeline tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
